@@ -72,6 +72,3 @@ export function Todolist(props: PropsType) {
         </div>
     </div>
 }
-//gdfgdfdfgdfgdfgdfgdfgdfg
-//кккккк
-//fhghrhyhy
